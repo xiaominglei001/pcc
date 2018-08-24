@@ -1,6 +1,6 @@
 4.1 遍历整个列表 参见例子 magicians.py</br>
 4.2 避免缩进错误 Python通过缩进来判断代码行与前一个代码行的关系</br>
-4.3 创建数值列表 参见例子numbers.py</br>
+4.3 创建数值列表 参见例子numbers.py  even_numbers.py squares.py</br>
 4.4 使用列表的一部分</br>
 4.4.1 切片 参见例子 players.py</br>
 4.4.2 遍历切片 参见例子players.py</br>
